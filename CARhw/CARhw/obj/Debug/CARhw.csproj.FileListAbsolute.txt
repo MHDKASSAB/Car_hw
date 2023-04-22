@@ -1,0 +1,11 @@
+C:\Users\kassa\source\repos\CARhw\CARhw\bin\Debug\CARhw.exe.config
+C:\Users\kassa\source\repos\CARhw\CARhw\bin\Debug\CARhw.exe
+C:\Users\kassa\source\repos\CARhw\CARhw\bin\Debug\CARhw.pdb
+C:\Users\kassa\source\repos\CARhw\CARhw\obj\Debug\CARhw.csprojAssemblyReference.cache
+C:\Users\kassa\source\repos\CARhw\CARhw\obj\Debug\CARhw.Company.resources
+C:\Users\kassa\source\repos\CARhw\CARhw\obj\Debug\CARhw.Form1.resources
+C:\Users\kassa\source\repos\CARhw\CARhw\obj\Debug\CARhw.Properties.Resources.resources
+C:\Users\kassa\source\repos\CARhw\CARhw\obj\Debug\CARhw.csproj.GenerateResource.cache
+C:\Users\kassa\source\repos\CARhw\CARhw\obj\Debug\CARhw.exe
+C:\Users\kassa\source\repos\CARhw\CARhw\obj\Debug\CARhw.pdb
+C:\Users\kassa\source\repos\CARhw\CARhw\obj\Debug\CARhw.final.resources
